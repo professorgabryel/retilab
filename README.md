@@ -1,4 +1,4 @@
-# Appunti Laboratorio Reti di calcolatori - Ingenito Emiddio
+# Appunti Laboratorio Reti di calcolatori - Emiddio Ingenito
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![MkDocs](https://img.shields.io/badge/Built%20with-MkDocs-indigo)](https://www.mkdocs.org/)
