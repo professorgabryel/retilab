@@ -6,7 +6,6 @@ Non è da ritenersi sostitutivo del materiale di studio di teoria, ma un solo ai
 
 Chiunque può contribuire proponendo merge request al repo GitHub associato.
 
-> [!NOTE]  
 > Potete scaricare, modificare, ridistrubuire il materiale contenuto in questo repository, citando il creatore. Non usare per scopi commerciali senza licenza.
 
 
