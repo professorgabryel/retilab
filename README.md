@@ -1,10 +1,11 @@
 # 📡 Appunti Laboratorio Reti di calcolatori - Ingenito Emiddio
 
-[![Build Status](https://github.com/emikodes/retilab/actions/workflows/ci.yml/badge.svg)](https://github.com/emikodes/retilab/actions)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![MkDocs](https://img.shields.io/badge/Built%20with-MkDocs-indigo)](https://www.mkdocs.org/)
 
 > **Raccolta di appunti, approfondimenti, esercizi e configurazioni Cisco per il corso di Laboratorio di Reti.** > *Università degli Studi di Milano - Autore: Ingenito Emiddio*
+> [!NOTE]  
+> Potete scaricare, modificare, ridistrubuire il materiale contenuto in questo repository, citando il creatore. Non usare per scopi commerciali senza licenza.
 
 ---
 
@@ -60,6 +61,4 @@
     * Soluzione **Router on a Stick** (Sotto-interfacce e incapsulamento dot1Q).
 
 ---
-Questi appunti sono distribuiti sotto licenza **Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale (CC BY-NC-SA 4.0)**.
-
-Sei libero di condividere e adattare il materiale, a patto di citare l'autore (**Emikodes**), non usarlo per scopi commerciali e distribuire le modifiche con la stessa licenza.
+Emiddio Ingenito [emikodes-UniMI](https://github.com/emikodes-UniMI) [emikodes](https://github.com/emikodes)
