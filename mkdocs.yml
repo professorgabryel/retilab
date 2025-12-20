@@ -89,3 +89,6 @@ markdown_extensions:
   # Supporto Formule Matematiche (LaTeX) - Fondamentale per i tuoi appunti $G=(V,E)$
   - pymdownx.arithmatex:
       generic: true
+      
+extra:
+  generator: false
