@@ -1,4 +1,6 @@
 site_name: Appunti Laboratorio Reti di calcolatori - Ingenito Emiddio
+site_author: Emiddio Ingenito
+site_description: Appunti completi del corso di Laboratorio di Reti di calcolatori, Università degli Studi di Milano. Apparati di rete, Cablaggi, DHCP, Subnetting, Routing, OSPF, RIP, VLAN, NAT, ACL e configurazioni Cisco.
 site_url: https://emikodes-UniMI.github.io/retilab/
 repo_url: https://github.com/emikodes-UniMI/retilab/
 repo_name: emikodes-UniMI/retilab
