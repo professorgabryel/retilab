@@ -3,12 +3,9 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![MkDocs](https://img.shields.io/badge/Built%20with-MkDocs-indigo)](https://www.mkdocs.org/)
 
-**Raccolta di appunti, approfondimenti, esercizi e configurazioni Cisco per il corso di Laboratorio di Reti.** > *Università degli Studi di Milano*
+**Raccolta di appunti, approfondimenti, esercizi e configurazioni Cisco per il corso di Laboratorio di Reti di calcolatori, Università degli Studi di Milano**
 > [!NOTE]  
 > Potete scaricare, modificare, ridistrubuire il materiale contenuto in questo repository, citando il creatore. Non usare per scopi commerciali senza licenza.
-
----
-
 
 ## [🚀 READ THEM ONLINE](https://emikodes-unimi.github.io/retilab/)
 
