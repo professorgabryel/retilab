@@ -49,8 +49,10 @@ theme:
 # Plugin aggiuntivi
 plugins:
   - search
-  # - git-revision-date-localized  # Utile per mostrare "Ultimo aggiornamento" (richiede git)
-
+  - social:
+      cards_layout_options:
+        background_color: "#2f3ab2" # Colore dello sfondo dell'immagine (blu indaco)
+        color: "#ffffff"            # Colore del testo
 # Estensioni Markdown (Per rendere gli appunti belli e funzionali)
 markdown_extensions:
   # Permette di usare le note colorate (!!! note "Nota Bene")
