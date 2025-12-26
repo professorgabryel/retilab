@@ -17,7 +17,7 @@ Lo standard **RFC 1918** ha riservato tre blocchi di indirizzi specifici per l'u
 > - **Class C Block:** `192.168.0.0` – `192.168.255.255` (CIDR: `192.168.0.0/16`)
 
 !!! warning "Non Instradabilità"
-Gli indirizzi privati **non sono instradabili su Internet**. I router dei provider (ISP) sono configurati per scartare (drop) qualsiasi pacchetto che abbia come destinazione o sorgente un indirizzo IP appartenente a queste classi. Ciò significa che un dispositivo a cui è assegnato un indirizzo IP privato, non potrà comunicare con la rete pubblica utilizzando quello stesso indirizzo.
+    Gli indirizzi privati **non sono instradabili su Internet**. I router dei provider (ISP) sono configurati per scartare (drop) qualsiasi pacchetto che abbia come destinazione o sorgente un indirizzo IP appartenente a queste classi. Ciò significa che un dispositivo a cui è assegnato un indirizzo IP privato, non potrà comunicare con la rete pubblica utilizzando quello stesso indirizzo.
 
 La soluzione è il NAT, un meccanismo di traduzione di indirizzi pubblici in privati e viceversa, adottato dai router di confine d’area al fine di permettere la navigazione in rete di dispositivi a cui è assegnato un indirizzo privato.
 
