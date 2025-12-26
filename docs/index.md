@@ -30,7 +30,7 @@ Hai trovato un errore? Vuoi aggiungere un esercizio svolto o un approfondimento 
 
 ---
 
-## 📄 Licenza e Utilizzo
+## Licenza e Utilizzo
 
 Il materiale contenuto in questo sito è distribuito liberamente per favorire lo studio e la collaborazione.
 
