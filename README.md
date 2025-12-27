@@ -11,51 +11,27 @@
 
 ---
 
-## 📚 Indice:
+## Indice:
+* **Apparati di rete:** Hub, Switch, Bridge, Router
+* **Cablaggi:** Cavi Ethernet, Fibra, standard di terminazione, composizione del cablaggio
+* **Servizi di Rete:** Implementazione pratica di **DHCP**, **NAT** (Network Address Translation) e **ACL**.
+* **Switching e VLAN:** Configurazione di Trunk 802.1Q, Access Port e **Router on a Stick**.
+* **Routing IGP:** Routing Statico, RIP (v1,v2), **OSPF** (Open Shortest Path First).
+* **Wireshark:** Analisi del traffico di rete, cattura pacchetti e studio dello stack protocollare **TCP/IP** e **ISO/OSI**.
 
-### 1. Apparati di Rete
-* **Hub:** Funzionamento a Livello 1, domini di collisione, Half Duplex.
-* **Switch:**
-    * Logica di smistamento (Livello 2).
-    * Tabella CAM e processo di *Learning, Forwarding, Filtering*.
-    * Gestione del Flooding e Broadcast.
-* **Bridge:** Differenze con gli switch e segmentazione della rete.
+> [!NOTE]  
+> Questa raccolta **NON sostituisce** in alcun modo il materiale didattico ufficiale fornito dai docenti o i libri di testo consigliati.
+> È da intendersi come un **supporto integrativo** per agevolare la comprensione pratica degli esercizi e il ripasso pre-esame.
 
-### 2. Cablaggi Strutturati
-* **Cavi Ethernet:**
-    * Doppini intrecciati e cancellazione del rumore (diafonia).
-    * Tipologie: UTP, FTP, STP, SFTP.
-* **Pinout e Standard:** T568A vs T568B.
-* **Cavi Straight vs Crossed:**
-    * Differenze MDI vs MDI-X.
-    * Funzionamento dell'Auto-MDI/MDI-X nelle NIC moderne.
-* **Fibra Ottica:** Core, Cladding, Coating e principi di rifrazione.
+---
 
-### 3. Protocollo DHCP
-* **Funzionamento:** Il processo DORA (Discover, Offer, Request, Ack).
-* **Gestione:** Lease time e rinnovo.
-* **DHCP Relay Agent:** Configurazione del router come proxy per reti remote (`ip helper-address`).
-* **Laboratorio:** Configurazione Pool DHCP su Server e Router Cisco.
+## Come Contribuire
 
-### 4. Routing
-* **Concetti Base:** Control Plane (RIB) vs Data Plane (FIB).
-* **Selezione della Rotta:**
-    1.  Validità Next Hop.
-    2.  Longest Prefix Match.
-    3.  Distanza Amministrativa (AD).
-    4.  Metrica.
-* **Routing Statico:** Configurazione manuale e sintassi Cisco.
-* **Routing Dinamico (RIP):**
-    * Differenze tra RIPv1 (Classful, Broadcast) e RIPv2 (Classless, Multicast, Auth).
-    * Algoritmo Distance Vector e limitazioni.
-    * Comandi: `network`, `passive-interface`, `version 2`.
+Hai trovato un errore? Vuoi aggiungere un esercizio svolto o un approfondimento su un nuovo argomento?
 
-### 5. VLAN (Virtual LAN)
-* **Concetti:** Segmentazione del dominio di broadcast a Livello 2.
-* **Trunking (IEEE 802.1Q):** Frame tagging e configurazione porte Trunk/Access.
-* **Routing Inter-VLAN:**
-    * Soluzione legacy (link fisici multipli).
-    * Soluzione **Router on a Stick** (Sotto-interfacce e incapsulamento dot1Q).
+1.  Vai sul [**Repository GitHub del progetto**](https://github.com/emikodes-UniMI/retilab/).
+2.  Fai un **Fork** del repository.
+3.  Proponi le tue modifiche tramite una **Pull Request**.
 
 ---
 Emiddio Ingenito [emikodes-UniMI](https://github.com/emikodes-UniMI) [emikodes](https://github.com/emikodes)
